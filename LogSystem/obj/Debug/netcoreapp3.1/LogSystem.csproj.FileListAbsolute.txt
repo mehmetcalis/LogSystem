@@ -1,0 +1,14 @@
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\bin\Debug\netcoreapp3.1\LogSystem.exe
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\bin\Debug\netcoreapp3.1\LogSystem.deps.json
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\bin\Debug\netcoreapp3.1\LogSystem.runtimeconfig.json
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\bin\Debug\netcoreapp3.1\LogSystem.runtimeconfig.dev.json
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\bin\Debug\netcoreapp3.1\LogSystem.dll
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\bin\Debug\netcoreapp3.1\LogSystem.pdb
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.csproj.AssemblyReference.cache
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.AssemblyInfoInputs.cache
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.AssemblyInfo.cs
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.csproj.CoreCompileInputs.cache
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.dll
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.pdb
+C:\Users\mehmet.calis\source\repos\LogSystem\LogSystem\obj\Debug\netcoreapp3.1\LogSystem.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dBW3CkuVTxnO2HpSGHM8Tgvi8rOSIGUvvac1hQcb2OL8T5aEbvamPqSledOi8chUSrMOA+gAznxe8Xdlq6jmjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mehmet.calis\\source\\repos\\LogSystem\\LogSystem\\LogSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehmet.calis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
